@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Repositorio creado par ael proyecto inical de prueba de github
+Repositorio creado para el proyecto inical de prueba de github.
